@@ -1,0 +1,9 @@
+{
+	"name": "swc_test",
+	"scripts": {
+		"test": "ava"
+	},
+	"devDependencies": {
+		"ava": "^1.0.0"
+	}
+}
